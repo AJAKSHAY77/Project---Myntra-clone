@@ -1,0 +1,86 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Oswald:wght@700&family=Poppins:wght@500;900&display=swap');
+
+
+
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+.left img{
+    height: 54px;
+    width: 120px;
+    
+}
+.container{
+   padding: 0 9vw;
+  
+    
+}
+nav ul li{
+    
+    list-style: none;
+    padding: 0 12px;
+    font-weight: bolder;
+    margin-right: 7px;
+    font-size: 13px;
+
+   
+}
+.right input{
+    width: 28vw;
+    padding: 7px 12px;
+    border: 0.5px solid grey;
+    background-color: #f7f8fd;
+    border-radius: 5px;
+    border: none;
+}
+.section1{
+    background: #f2f2f2;
+    
+}
+nav{
+    padding-top: 14px;
+}
+header{
+    height: 69px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+#navleft{
+    margin-left: -174px;
+}
+.homeimg{
+  width: 84vw;
+  margin: 12px 0px;
+}
+.homeimg2{
+    margin-left: -144px;
+    margin-top: -3px;
+    width: max-content;
+    background-color:#f2f2f2;
+
+
+}
+.itemImg{
+    width: 10vw;
+    margin: 6px 12px;
+    
+}
+#aj{
+    margin-left: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+footer{
+    padding: 23px;
+    text-align: center;
+    box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+  }
